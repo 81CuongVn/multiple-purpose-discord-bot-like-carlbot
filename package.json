@@ -93,7 +93,7 @@
     "simple-youtube-api": "^5.2.1",
     "snekfetch": "^4.0.4",
     "sourcebin_js": "0.0.3-ignore",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.0.3",
     "superagent": "^5.3.1",
     "to-zalgo": "^1.0.1",
     "twemoji-parser": "^13.0.0",
