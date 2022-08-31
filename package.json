@@ -65,7 +65,7 @@
     "merge-options": "^3.0.4",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^3.6.6",
     "mongoose": "^5.12.4",
     "ms": "^2.1.3",
