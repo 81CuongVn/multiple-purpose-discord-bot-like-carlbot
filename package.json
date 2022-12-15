@@ -43,7 +43,7 @@
     "easy-json-database": "^1.3.0",
     "ejs": "^2.7.4",
     "event-handler": "^1.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.1",
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.3.0",
