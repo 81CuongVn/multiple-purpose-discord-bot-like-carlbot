@@ -89,7 +89,7 @@
     "request": "^2.88.2",
     "request-promise-native": "^1.0.9",
     "scrape-yt": "^1.4.8",
-    "sequelize": "^6.6.2",
+    "sequelize": "^6.28.2",
     "simple-youtube-api": "^5.2.1",
     "snekfetch": "^4.0.4",
     "sourcebin_js": "0.0.3-ignore",
